@@ -1,2 +1,2 @@
 # 4.-Afrila-Putri
-Judul Project : Sistem Informasi Penjualan Online Toko Kaset Andromeda
+Judul Project : Sistem Informasi Online Toko Kaset Andromeda
